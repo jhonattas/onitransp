@@ -4,3 +4,4 @@ data/mysql/
 data/mysql/sys
 logs/apache2/error.log
 logs/apache2/other_vhosts_access.log
+old
